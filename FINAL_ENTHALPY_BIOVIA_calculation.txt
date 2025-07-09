@@ -1,0 +1,4 @@
+BFGS: Final Enthalpy     = -5.96071848E+002 eV
+BFGS: Final Enthalpy     = -1.04775058E+004 eV
+BFGS: Final Enthalpy     = -1.10753131E+004 eV
+BFGS: Final Enthalpy     = -2.21507550E+004 eV
