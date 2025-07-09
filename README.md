@@ -37,7 +37,7 @@ This repository contains a DFT(Density Functional Theory)-based simulation study
 ### 📉 Band Structure
 
 <p align="center">
-  <img src="images/band_structure.png" alt="Band Structure Plot" width="500"/>
+  <img src="Images/band_structure.png" alt="Band Structure Plot" width="500"/>
 </p>
 
 ### 📊 Density of States (DOS)
