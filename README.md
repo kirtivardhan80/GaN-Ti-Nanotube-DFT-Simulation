@@ -31,7 +31,7 @@ This repository contains a DFT(Density Functional Theory)-based simulation study
 ### 🧱 Optimized Structure
 
 <p align="center">
-  <img src="images/structure_gan_ti.png" alt="Optimized GaN-Ti Nanotube Structure" width="500"/>
+  <img src="Images/structure_gan_ti.png" alt="Optimized GaN-Ti Nanotube Structure" width="500"/>
 </p>
 
 ### 📉 Band Structure
@@ -43,13 +43,13 @@ This repository contains a DFT(Density Functional Theory)-based simulation study
 ### 📊 Density of States (DOS)
 
 <p align="center">
-  <img src="images/dos_plot.png" alt="Density of States" width="500"/>
+  <img src="Images/dos_plot.png" alt="Density of States" width="500"/>
 </p>
 
 ### 🧪 Elastic Tensor (ELATE 3D View)
 
 <p align="center">
-  <img src="images/elastic_tensor_3d.png" alt="3D Elastic Tensor Visualization" width="500"/>
+  <img src="Images/elastic_tensor_3d.png" alt="3D Elastic Tensor Visualization" width="500"/>
 </p>
 
 ---
