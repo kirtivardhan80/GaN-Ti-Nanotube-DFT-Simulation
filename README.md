@@ -1,6 +1,3 @@
-# GaN-Ti-Nanotube-DFT-Simulation
-
-```markdown
 # 🧪 GaN-Ti Nanotube DFT Simulation
 
 This repository contains a DFT-based simulation study of the structural, electronic, and elastic properties of Titanium-doped Gallium Nitride (GaN-Ti) in both bulk and nanotube forms. Simulations were performed using BIOVIA Materials Studio, and elastic tensor analysis was conducted using ELATE.
@@ -108,4 +105,5 @@ Centurion University of Technology and Management, Bhubaneswar, India
   Made with ❤️ for materials simulation and nanoscience.
 </div>
 ```
+
 
